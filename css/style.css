@@ -12,7 +12,7 @@
     --fw-bold: 900;
 
     --clr-light: #fff;
-    --clr-dark: #6e6b6b;
+    --clr-dark: #212020;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -34,4 +34,9 @@
 
 body {
     background: var(--clr-light);
+    color: var(--clr-dark);
+    margin: 0;
+    font-family: var(--ff-primary);
+    font-size: var(--fs-body);
+    line-height: 1.3;
 }
