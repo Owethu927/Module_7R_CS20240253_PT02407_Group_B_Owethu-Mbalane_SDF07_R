@@ -3,3 +3,9 @@
 *::after {
     box-sizing: border-box;
 }
+
+:root {
+    --ff-primary: 'Source Sans Pro', sans-serif;;
+    --ff-secondary: 'Source Code Pro', monospace;;
+}
+
